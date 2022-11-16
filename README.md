@@ -1,5 +1,4 @@
-![dataModel for supplement store analysis](https://user-images.githubusercontent.com/96012606/202172862-3b76f7db-4246-43d2-a2ae-29a115899b37.png)
-![My Task 2 Dshbrd](https://user-images.githubusercontent.com/96012606/202172902-19f810b8-6f5f-4fc3-b1e3-2b99633c8620.png)
+
 # Supplement-Store-Analysis-in-Power-BI
 I have built an interactive Dashboard containing crucial insights with important KPIs.
 
@@ -34,3 +33,9 @@ I have also added some DAX measures, which helped in getting more clarity by goi
 Whey Protein.
 
 - North America is the highest consumer of Whey Protein which is a good indication for the business as they can scale up and introduce new products.
+
+Data Model:
+![dataModel for supplement store analysis](https://user-images.githubusercontent.com/96012606/202172862-3b76f7db-4246-43d2-a2ae-29a115899b37.png)
+
+Dashboard Overview:
+![My Task 2 Dshbrd](https://user-images.githubusercontent.com/96012606/202172902-19f810b8-6f5f-4fc3-b1e3-2b99633c8620.png)
